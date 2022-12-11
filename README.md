@@ -26,7 +26,7 @@ I'm a finance professional based in Göttingen, Germany. 🌍
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning Python and PostgreSQL  
   
@@ -37,11 +37,11 @@ I'm a finance professional based in Göttingen, Germany. 🌍
 - ⚖️ I'm also interested in legal tech and have studied German law for some time  
 
 
-</td><td valign="top" width="50%">
+</td>
 
 
 
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -83,16 +83,3 @@ I'm a finance professional based in Göttingen, Germany. 🌍
 <br/>  
 
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=thorbjoernheise &&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
