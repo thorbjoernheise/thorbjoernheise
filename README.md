@@ -28,7 +28,7 @@ I'm a finance professional based in Göttingen, Germany. 🌍
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🌱 I’m currently learning Python and PostgreSQL  
+- 🌱 I’m currently learning Python
   
 
 - ❓ I'm interested in anything related to structured finance analysis and the technology to do so  
