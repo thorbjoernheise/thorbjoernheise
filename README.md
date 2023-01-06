@@ -1,4 +1,4 @@
-## Hey 👋, I'm Thorbjörn Heise!  
+## Hey 👋, I'm Thorbjörn!  
   
 
 <a href="https://github.com/thorbjoernheise" target="_blank">
@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-Hello! My name is Thorbjörn, and I am a passionate learner and self-taught programmer with a diverse background in finance, banking, and law. I hope you find something here that interests you, and please don't hesitate to reach out if you have any questions or want to collaborate on a project. I am always open to new opportunities and experiences that can help me continue my journey as a programmer!
+I am a passionate learner and self-taught programmer with a diverse background in finance, banking, and law. I hope you find something here that interests you, and please don't hesitate to reach out if you have any questions or want to collaborate on a project. I am always open to new opportunities and experiences that can help me continue my journey as a programmer!
 
 
 <br/>  
