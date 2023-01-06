@@ -1,6 +1,11 @@
 ## Hey 👋, I'm Thorbjörn!  
   
 
+### Glad to see you here!  
+I am a passionate learner and self-taught programmer with a diverse background in finance, banking, and law. I hope you find something here that interests you, and please don't hesitate to reach out if you have any questions or want to collaborate on a project. I am always open to new opportunities and experiences that can help me continue my journey in programming!
+
+
+<br/>  
 <a href="https://github.com/thorbjoernheise" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,15 +18,7 @@
 <a href="https://medium.com/https://medium.com/@thorbjoern.heise" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-### Glad to see you here!  
-I am a passionate learner and self-taught programmer with a diverse background in finance, banking, and law. I hope you find something here that interests you, and please don't hesitate to reach out if you have any questions or want to collaborate on a project. I am always open to new opportunities and experiences that can help me continue my journey as a programmer!
-
-
-<br/>  
+  <br>
 
 
 ## Rapidfire  
@@ -79,5 +76,4 @@ I am a passionate learner and self-taught programmer with a diverse background i
 </td></tr></table>  
 
 <br/>  
-Thank you for visiting my profile.
   
