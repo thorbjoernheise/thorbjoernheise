@@ -2,7 +2,7 @@
   
 
 ### Glad to see you here!  
-I am a passionate learner and self-taught programmer with a diverse background in finance, banking, and law. I hope you find something here that interests you, and please don't hesitate to reach out if you have any questions or want to collaborate on a project. I am always open to new opportunities and experiences that can help me continue my journey in programming!
+I am a passionate learner and currtenly digging into programming. I have a diverse background in finance, banking, and law. I hope you find something here that interests you, and please don't hesitate to reach out if you have any questions or want to collaborate on a project. I am always open to new opportunities and experiences that can help me continue my journey in the world of programming!
 
 
 <br/>  
