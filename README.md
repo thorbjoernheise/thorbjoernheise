@@ -1,8 +1,10 @@
-## Hey 👋, I'm Thorbjörn!  
-  
-
-### Glad to see you here!  
-I am a passionate learner and currtenly digging into programming. I have a diverse background in finance, banking, and law. I hope you find something here that interests you, and please don't hesitate to reach out if you have any questions or want to collaborate on a project. I am always open to new opportunities and experiences that can help me continue my journey in the world of programming!
+##👋 Hey, I'm Thorbjörn from Göttingen, Germany!
+🧑‍💻 Aspiring programmer with a passion for web technology, fintech and legal tech
+📚 Law student with a diverse background in banking and event management
+🌱 Self-taught Programmer with growing experience in Python, HTML, CSS (and a bit JavaScript)
+🎸 Amateur guitarist and recording enthusiast 🎧
+🍳 Hobby Cook and caffeine addict ☕
+💬I love getting feedback and improving my skills, so please don't hesitate to reach out!
 
 
 <br/>  
@@ -21,25 +23,6 @@ I am a passionate learner and currtenly digging into programming. I have a diver
   <br>
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🌱 I’m currently learning Python
-  
-
-- ❓ I'm interested in anything related to structured finance analysis and the technology to do so  
-  
-
-- ⚖️ I'm also interested in legal tech and have studied German law for some time  
-
-
-</td>
-
-
-
-</tr></table>  
-
-<br/>  
 
 ## Languages and Tools  
 <div align="center">  
