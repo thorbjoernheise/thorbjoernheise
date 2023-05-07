@@ -1,6 +1,8 @@
 ## Hey, I'm Thorbjörn! 👋   
   
 🧑‍💻 Aspiring programmer with a passion for **web technology**, **fintech**, and **legal tech**   
+
+📍 Based in Göttingen, Germany    
    
 📚 **Law** student with a diverse background in **banking** and **event management**   
    
