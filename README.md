@@ -3,17 +3,6 @@
 🧑‍💻 Self-taught programmer with a passion for **web technology**, **fintech**, and **legal tech**   
 
 📍 Based in Göttingen, Germany    
-   
-📚 **Law** student with a diverse background in **banking** and **event management**   
-   
-🌱 **Self-taught** programmer with growing experience in **Python**, **HTML**, **CSS,** and a bit of **JavaScript**   
-   
-🎸 Amateur guitarist and recording enthusiast 🎧   
-   
-🍳 Hobby cook and caffeine addict ☕   
-   
-💬 I love getting feedback and improving my skills, so please don't hesitate to reach out!   
-   
 
 <br/>  
 <a href="https://github.com/thorbjoernheise" target="_blank">
